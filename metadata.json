@@ -1,0 +1,5 @@
+{
+  "name": "Nodus CMMS",
+  "description": "Industrial maintenance management system with real-time monitoring, Telegram integration, and AI-powered diagnostics.",
+  "requestFramePermissions": []
+}
